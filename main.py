@@ -31,7 +31,7 @@ class MyStreamlit:
         entre diferentes tipos de perfil.
         """
 
-        self.db_file = '.\data\EUROPA.db'
+        self.db_file = './data/EUROPA.db'
 
         self.set_page_config()
         self.titulo()
